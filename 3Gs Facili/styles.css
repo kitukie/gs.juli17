@@ -1,0 +1,607 @@
+ body {
+	margin: 0;
+	padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 1020px;
+	 height: 1623px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #Background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1020px;
+	 height: 1623px;
+	 z-index:1;
+} 
+
+ #Rectangle1copy10 
+{ 
+	 left: -2px; 
+	 top: 1295px; 
+	 position: absolute; 
+	 width: 1025px;
+	 height: 329px;
+	 z-index:2;
+} 
+
+ #LoremIpsumissimplydu 
+{ 
+	 left: 25px; 
+	 top: 1368px; 
+	 position: absolute; 
+	 width: 259px;
+	 height: 132px;
+	 z-index:3;
+} 
+
+ #Aboutus 
+{ 
+	 left: 25px; 
+	 top: 1335px; 
+	 position: absolute; 
+	 width: 81px;
+	 height: 15px;
+	 z-index:4;
+} 
+
+ #LoremIpsumissimplydu_0 
+{ 
+	 left: 698px; 
+	 top: 1376px; 
+	 position: absolute; 
+	 width: 223px;
+	 height: 67px;
+	 z-index:5;
+} 
+
+ #LoremIpsumissimplydu_1 
+{ 
+	 left: 697px; 
+	 top: 1469px; 
+	 position: absolute; 
+	 width: 223px;
+	 height: 66px;
+	 z-index:6;
+} 
+
+ #LatestTweets 
+{ 
+	 left: 697px; 
+	 top: 1335px; 
+	 position: absolute; 
+	 width: 118px;
+	 height: 15px;
+	 z-index:7;
+} 
+
+ #News 
+{ 
+	 left: 363px; 
+	 top: 1335px; 
+	 position: absolute; 
+	 width: 48px;
+	 height: 15px;
+	 z-index:8;
+} 
+
+ #Layer4copy2 
+{ 
+	 left: 363px; 
+	 top: 1374px; 
+	 position: absolute; 
+	 width: 108px;
+	 height: 72px;
+	 z-index:9;
+} 
+
+ #LoremIpsumissimplydu_2 
+{ 
+	 left: 494px; 
+	 top: 1473px; 
+	 position: absolute; 
+	 width: 139px;
+	 height: 32px;
+	 z-index:10;
+} 
+
+ #LoremIpsumissimplydu_3 
+{ 
+	 left: 495px; 
+	 top: 1376px; 
+	 position: absolute; 
+	 width: 140px;
+	 height: 32px;
+	 z-index:11;
+} 
+
+ #Layer4copy2_0 
+{ 
+	 left: 363px; 
+	 top: 1473px; 
+	 position: absolute; 
+	 width: 108px;
+	 height: 74px;
+	 z-index:12;
+} 
+
+ #2017AllRightsReserve 
+{ 
+	 left: 439px; 
+	 top: 1593px; 
+	 position: absolute; 
+	 width: 158px;
+	 height: 14px;
+	 z-index:13;
+} 
+
+ #List 
+{ 
+	 left: 21px; 
+	 top: 1566px; 
+	 position: absolute; 
+	 width: 979px;
+	 height: 4px;
+	 z-index:14;
+} 
+
+ #Shape3copy2 
+{ 
+	 left: 338px; 
+	 top: 959px; 
+	 position: absolute; 
+	 width: 687px;
+	 height: 339px;
+	 z-index:15;
+} 
+
+ #FitnessCenterLoungew 
+{ 
+	 left: 696px; 
+	 top: 1022px; 
+	 position: absolute; 
+	 width: 188px;
+	 height: 198px;
+	 z-index:16;
+} 
+
+ #24hourreceptionCheck 
+{ 
+	 left: 362px; 
+	 top: 1022px; 
+	 position: absolute; 
+	 width: 220px;
+	 height: 195px;
+	 z-index:17;
+} 
+
+ #Shape3copy3 
+{ 
+	 left: -4px; 
+	 top: 959px; 
+	 position: absolute; 
+	 width: 345px;
+	 height: 339px;
+	 z-index:18;
+} 
+
+ #Duisauteiruredolorin 
+{ 
+	 left: 25px; 
+	 top: 1022px; 
+	 position: absolute; 
+	 width: 236px;
+	 height: 231px;
+	 z-index:19;
+} 
+
+ #Facilitiesandservice 
+{ 
+	 left: 25px; 
+	 top: 984px; 
+	 position: absolute; 
+	 width: 179px;
+	 height: 14px;
+	 z-index:20;
+} 
+
+ #Rectangle9 
+{ 
+	 left: 629px; 
+	 top: 745px; 
+	 position: absolute; 
+	 width: 244px;
+	 height: 183px;
+	 z-index:21;
+} 
+
+ #layer_22 
+{ 
+	 left: 729px; 
+	 top: 818px; 
+	 position: absolute; 
+	 width: 45px;
+	 height: 38px;
+	 z-index:22;
+} 
+
+ #Rectangle9_0 
+{ 
+	 left: 388px; 
+	 top: 745px; 
+	 position: absolute; 
+	 width: 244px;
+	 height: 183px;
+	 z-index:23;
+} 
+
+ #layer_24 
+{ 
+	 left: 488px; 
+	 top: 818px; 
+	 position: absolute; 
+	 width: 45px;
+	 height: 38px;
+	 z-index:24;
+} 
+
+ #Rectangle9_1 
+{ 
+	 left: 146px; 
+	 top: 745px; 
+	 position: absolute; 
+	 width: 244px;
+	 height: 183px;
+	 z-index:25;
+} 
+
+ #layer_26 
+{ 
+	 left: 246px; 
+	 top: 818px; 
+	 position: absolute; 
+	 width: 45px;
+	 height: 38px;
+	 z-index:26;
+} 
+
+ #Rectangle9_2 
+{ 
+	 left: 630px; 
+	 top: 563px; 
+	 position: absolute; 
+	 width: 244px;
+	 height: 184px;
+	 z-index:27;
+} 
+
+ #layer_28 
+{ 
+	 left: 730px; 
+	 top: 637px; 
+	 position: absolute; 
+	 width: 45px;
+	 height: 38px;
+	 z-index:28;
+} 
+
+ #Rectangle9_3 
+{ 
+	 left: 388px; 
+	 top: 564px; 
+	 position: absolute; 
+	 width: 244px;
+	 height: 183px;
+	 z-index:29;
+} 
+
+ #layer_30 
+{ 
+	 left: 488px; 
+	 top: 637px; 
+	 position: absolute; 
+	 width: 45px;
+	 height: 38px;
+	 z-index:30;
+} 
+
+ #Rectangle9_4 
+{ 
+	 left: 146px; 
+	 top: 563px; 
+	 position: absolute; 
+	 width: 244px;
+	 height: 184px;
+	 z-index:31;
+} 
+
+ #layer_32 
+{ 
+	 left: 257px; 
+	 top: 618px; 
+	 position: absolute; 
+	 width: 26px;
+	 height: 27px;
+	 z-index:32;
+} 
+
+ #NequePorroQuisquamHo 
+{ 
+	 left: 202px; 
+	 top: 661px; 
+	 position: absolute; 
+	 width: 133px;
+	 height: 23px;
+	 z-index:33;
+} 
+
+ #Shape2 
+{ 
+	 left: -4px; 
+	 top: 425px; 
+	 position: absolute; 
+	 width: 1028px;
+	 height: 112px;
+	 z-index:34;
+} 
+
+ #Youcanmakeuseofourpo 
+{ 
+	 left: 297px; 
+	 top: 449px; 
+	 position: absolute; 
+	 width: 436px;
+	 height: 18px;
+	 z-index:35;
+} 
+
+ #Loremipsumdolorsitam 
+{ 
+	 left: 268px; 
+	 top: 481px; 
+	 position: absolute; 
+	 width: 484px;
+	 height: 33px;
+	 z-index:36;
+} 
+
+ #Rectangle2 
+{ 
+	 left: 0px; 
+	 top: 128px; 
+	 position: absolute; 
+	 width: 1020px;
+	 height: 298px;
+	 z-index:37;
+} 
+
+ #CHBAcousticFriday11M 
+{ 
+	 left: 0px; 
+	 top: 128px; 
+	 position: absolute; 
+	 width: 1020px;
+	 height: 298px;
+	 z-index:38;
+} 
+
+ #FACILITIESSERVICES 
+{ 
+	 left: 381px; 
+	 top: 247px; 
+	 position: absolute; 
+	 width: 257px;
+	 height: 17px;
+	 z-index:39;
+} 
+
+ #LoremIpsumissimplydu_4 
+{ 
+	 left: 237px; 
+	 top: 295px; 
+	 position: absolute; 
+	 width: 546px;
+	 height: 24px;
+	 z-index:40;
+} 
+
+ #Rectangle1copy 
+{ 
+	 left: -1px; 
+	 top: 58px; 
+	 position: absolute; 
+	 width: 1024px;
+	 height: 71px;
+	 z-index:41;
+} 
+
+ #Rectangle1copy2 
+{ 
+	 left: -2px; 
+	 top: 58px; 
+	 position: absolute; 
+	 width: 195px;
+	 height: 71px;
+	 z-index:42;
+} 
+
+ #HomeRoomsFacilitiesG 
+{ 
+	 left: 433px; 
+	 top: 88px; 
+	 position: absolute; 
+	 width: 425px;
+	 height: 16px;
+	 z-index:43;
+} 
+
+ #YourHotel 
+{ 
+	 left: 28px; 
+	 top: 76px; 
+	 position: absolute; 
+	 width: 134px;
+	 height: 22px;
+	 z-index:44;
+} 
+
+ #TagLinehere 
+{ 
+	 left: 36px; 
+	 top: 104px; 
+	 position: absolute; 
+	 width: 113px;
+	 height: 10px;
+	 z-index:45;
+} 
+
+ #RoundedRectangle1 
+{ 
+	 left: 874px; 
+	 top: 75px; 
+	 position: absolute; 
+	 width: 137px;
+	 height: 40px;
+	 z-index:46;
+} 
+
+ #BookNow 
+{ 
+	 left: 903px; 
+	 top: 88px; 
+	 position: absolute; 
+	 width: 81px;
+	 height: 14px;
+	 z-index:47;
+} 
+
+ #layer_48 
+{ 
+	 left: 380px; 
+	 top: 19px; 
+	 position: absolute; 
+	 width: 16px;
+	 height: 16px;
+	 z-index:48;
+} 
+
+ #layer_44001234567 
+{ 
+	 left: 400px; 
+	 top: 20px; 
+	 position: absolute; 
+	 width: 122px;
+	 height: 14px;
+	 z-index:49;
+} 
+
+ #layer_50 
+{ 
+	 left: 608px; 
+	 top: 22px; 
+	 position: absolute; 
+	 width: 16px;
+	 height: 13px;
+	 z-index:50;
+} 
+
+ #mailgrahasupenacom 
+{ 
+	 left: 638px; 
+	 top: 19px; 
+	 position: absolute; 
+	 width: 174px;
+	 height: 18px;
+	 z-index:51;
+} 
+
+ #fb 
+{ 
+	 left: 901px; 
+	 top: 13px; 
+	 position: absolute; 
+	 width: 30px;
+	 height: 31px;
+	 z-index:52;
+} 
+
+ #fb_0 
+{ 
+	 left: 910px; 
+	 top: 21px; 
+	 position: absolute; 
+	 width: 9px;
+	 height: 16px;
+	 z-index:53;
+} 
+
+ #gplus 
+{ 
+	 left: 862px; 
+	 top: 13px; 
+	 position: absolute; 
+	 width: 30px;
+	 height: 31px;
+	 z-index:54;
+} 
+
+ #gplus_0 
+{ 
+	 left: 868px; 
+	 top: 23px; 
+	 position: absolute; 
+	 width: 20px;
+	 height: 13px;
+	 z-index:55;
+} 
+
+ #twet 
+{ 
+	 left: 943px; 
+	 top: 13px; 
+	 position: absolute; 
+	 width: 30px;
+	 height: 31px;
+	 z-index:56;
+} 
+
+ #twet_0 
+{ 
+	 left: 951px; 
+	 top: 23px; 
+	 position: absolute; 
+	 width: 14px;
+	 height: 12px;
+	 z-index:57;
+} 
+
+ #lind 
+{ 
+	 left: 985px; 
+	 top: 13px; 
+	 position: absolute; 
+	 width: 31px;
+	 height: 31px;
+	 z-index:58;
+} 
+
+ #lind_0 
+{ 
+	 left: 994px; 
+	 top: 22px; 
+	 position: absolute; 
+	 width: 15px;
+	 height: 14px;
+	 z-index:59;
+} 
