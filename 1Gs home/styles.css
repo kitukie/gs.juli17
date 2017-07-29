@@ -1,0 +1,1287 @@
+ body {
+	margin: 0;
+	padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 1020px;
+	 height: 1980px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #Background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1020px;
+	 height: 1980px;
+	 z-index:1;
+} 
+
+ #Rectangle1copy10 
+{ 
+	 left: -2px; 
+	 top: 1652px; 
+	 position: absolute; 
+	 width: 1025px;
+	 height: 329px;
+	 z-index:2;
+} 
+
+ #LoremIpsumissimplydu 
+{ 
+	 left: 25px; 
+	 top: 1725px; 
+	 position: absolute; 
+	 width: 259px;
+	 height: 132px;
+	 z-index:3;
+} 
+
+ #Aboutus 
+{ 
+	 left: 25px; 
+	 top: 1692px; 
+	 position: absolute; 
+	 width: 81px;
+	 height: 15px;
+	 z-index:4;
+} 
+
+ #LoremIpsumissimplydu_0 
+{ 
+	 left: 698px; 
+	 top: 1733px; 
+	 position: absolute; 
+	 width: 223px;
+	 height: 67px;
+	 z-index:5;
+} 
+
+ #LoremIpsumissimplydu_1 
+{ 
+	 left: 697px; 
+	 top: 1826px; 
+	 position: absolute; 
+	 width: 223px;
+	 height: 66px;
+	 z-index:6;
+} 
+
+ #LatestTweets 
+{ 
+	 left: 697px; 
+	 top: 1692px; 
+	 position: absolute; 
+	 width: 118px;
+	 height: 15px;
+	 z-index:7;
+} 
+
+ #News 
+{ 
+	 left: 363px; 
+	 top: 1692px; 
+	 position: absolute; 
+	 width: 48px;
+	 height: 15px;
+	 z-index:8;
+} 
+
+ #Layer4copy2 
+{ 
+	 left: 363px; 
+	 top: 1731px; 
+	 position: absolute; 
+	 width: 108px;
+	 height: 72px;
+	 z-index:9;
+} 
+
+ #LoremIpsumissimplydu_2 
+{ 
+	 left: 494px; 
+	 top: 1830px; 
+	 position: absolute; 
+	 width: 139px;
+	 height: 32px;
+	 z-index:10;
+} 
+
+ #LoremIpsumissimplydu_3 
+{ 
+	 left: 495px; 
+	 top: 1733px; 
+	 position: absolute; 
+	 width: 140px;
+	 height: 32px;
+	 z-index:11;
+} 
+
+ #Layer4copy2_0 
+{ 
+	 left: 363px; 
+	 top: 1830px; 
+	 position: absolute; 
+	 width: 108px;
+	 height: 74px;
+	 z-index:12;
+} 
+
+ #2017AllRightsReserve 
+{ 
+	 left: 439px; 
+	 top: 1950px; 
+	 position: absolute; 
+	 width: 158px;
+	 height: 14px;
+	 z-index:13;
+} 
+
+ #List 
+{ 
+	 left: 21px; 
+	 top: 1923px; 
+	 position: absolute; 
+	 width: 979px;
+	 height: 4px;
+	 z-index:14;
+} 
+
+ #Rectangle1copy24 
+{ 
+	 left: -2px; 
+	 top: 1400px; 
+	 position: absolute; 
+	 width: 1024px;
+	 height: 254px;
+	 z-index:15;
+} 
+
+ #Layer12 
+{ 
+	 left: 0px; 
+	 top: 1401px; 
+	 position: absolute; 
+	 width: 1020px;
+	 height: 252px;
+	 z-index:16;
+} 
+
+ #Shape2 
+{ 
+	 left: 675px; 
+	 top: 1094px; 
+	 position: absolute; 
+	 width: 347px;
+	 height: 309px;
+	 z-index:17;
+} 
+
+ #Getintouch 
+{ 
+	 left: 697px; 
+	 top: 1116px; 
+	 position: absolute; 
+	 width: 114px;
+	 height: 18px;
+	 z-index:18;
+} 
+
+ #BusinessClubCenter5t 
+{ 
+	 left: 739px; 
+	 top: 1172px; 
+	 position: absolute; 
+	 width: 153px;
+	 height: 171px;
+	 z-index:19;
+} 
+
+ #Ellipse3 
+{ 
+	 left: 696px; 
+	 top: 1167px; 
+	 position: absolute; 
+	 width: 28px;
+	 height: 28px;
+	 z-index:20;
+} 
+
+ #Ellipse3copy 
+{ 
+	 left: 696px; 
+	 top: 1225px; 
+	 position: absolute; 
+	 width: 28px;
+	 height: 28px;
+	 z-index:21;
+} 
+
+ #Ellipse3copy2 
+{ 
+	 left: 696px; 
+	 top: 1271px; 
+	 position: absolute; 
+	 width: 28px;
+	 height: 29px;
+	 z-index:22;
+} 
+
+ #Ellipse3copy3 
+{ 
+	 left: 696px; 
+	 top: 1318px; 
+	 position: absolute; 
+	 width: 28px;
+	 height: 28px;
+	 z-index:23;
+} 
+
+ #layer_24 
+{ 
+	 left: 703px; 
+	 top: 1176px; 
+	 position: absolute; 
+	 width: 13px;
+	 height: 10px;
+	 z-index:24;
+} 
+
+ #layer_25 
+{ 
+	 left: 705px; 
+	 top: 1233px; 
+	 position: absolute; 
+	 width: 11px;
+	 height: 11px;
+	 z-index:25;
+} 
+
+ #layer_26 
+{ 
+	 left: 705px; 
+	 top: 1280px; 
+	 position: absolute; 
+	 width: 12px;
+	 height: 10px;
+	 z-index:26;
+} 
+
+ #layer_27 
+{ 
+	 left: 705px; 
+	 top: 1326px; 
+	 position: absolute; 
+	 width: 11px;
+	 height: 12px;
+	 z-index:27;
+} 
+
+ #Rectangle1copy7 
+{ 
+	 left: 339px; 
+	 top: 1095px; 
+	 position: absolute; 
+	 width: 339px;
+	 height: 308px;
+	 z-index:28;
+} 
+
+ #Rectangle1copy9 
+{ 
+	 left: 590px; 
+	 top: 1361px; 
+	 position: absolute; 
+	 width: 36px;
+	 height: 32px;
+	 z-index:29;
+} 
+
+ #Rectangle1copy20 
+{ 
+	 left: 629px; 
+	 top: 1361px; 
+	 position: absolute; 
+	 width: 36px;
+	 height: 32px;
+	 z-index:30;
+} 
+
+ #LoremIpsumissimplydu_4 
+{ 
+	 left: 495px; 
+	 top: 1169px; 
+	 position: absolute; 
+	 width: 139px;
+	 height: 32px;
+	 z-index:31;
+} 
+
+ #Promo 
+{ 
+	 left: 363px; 
+	 top: 1116px; 
+	 position: absolute; 
+	 width: 61px;
+	 height: 17px;
+	 z-index:32;
+} 
+
+ #Layer4 
+{ 
+	 left: 363px; 
+	 top: 1169px; 
+	 position: absolute; 
+	 width: 110px;
+	 height: 75px;
+	 z-index:33;
+} 
+
+ #LoremIpsumissimplyte 
+{ 
+	 left: 495px; 
+	 top: 1217px; 
+	 position: absolute; 
+	 width: 151px;
+	 height: 14px;
+	 z-index:34;
+} 
+
+ #LoremIpsumissimplydu_5 
+{ 
+	 left: 495px; 
+	 top: 1271px; 
+	 position: absolute; 
+	 width: 139px;
+	 height: 33px;
+	 z-index:35;
+} 
+
+ #Layer4copy 
+{ 
+	 left: 363px; 
+	 top: 1272px; 
+	 position: absolute; 
+	 width: 110px;
+	 height: 75px;
+	 z-index:36;
+} 
+
+ #LoremIpsumissimplyte_0 
+{ 
+	 left: 495px; 
+	 top: 1319px; 
+	 position: absolute; 
+	 width: 152px;
+	 height: 14px;
+	 z-index:37;
+} 
+
+ #layer_38 
+{ 
+	 left: 605px; 
+	 top: 1372px; 
+	 position: absolute; 
+	 width: 6px;
+	 height: 11px;
+	 z-index:38;
+} 
+
+ #layer_39 
+{ 
+	 left: 644px; 
+	 top: 1372px; 
+	 position: absolute; 
+	 width: 6px;
+	 height: 11px;
+	 z-index:39;
+} 
+
+ #Shape1 
+{ 
+	 left: -1px; 
+	 top: 1094px; 
+	 position: absolute; 
+	 width: 343px;
+	 height: 309px;
+	 z-index:40;
+} 
+
+ #CustomerSays 
+{ 
+	 left: 25px; 
+	 top: 1116px; 
+	 position: absolute; 
+	 width: 137px;
+	 height: 22px;
+	 z-index:41;
+} 
+
+ #LoremIpsumissimplydu_6 
+{ 
+	 left: 26px; 
+	 top: 1169px; 
+	 position: absolute; 
+	 width: 223px;
+	 height: 60px;
+	 z-index:42;
+} 
+
+ #AnnaDoeNewYorkUSA 
+{ 
+	 left: 118px; 
+	 top: 1288px; 
+	 position: absolute; 
+	 width: 94px;
+	 height: 30px;
+	 z-index:43;
+} 
+
+ #Ellipse3copy4 
+{ 
+	 left: 25px; 
+	 top: 1276px; 
+	 position: absolute; 
+	 width: 53px;
+	 height: 53px;
+	 z-index:44;
+} 
+
+ #Layer10 
+{ 
+	 left: 24px; 
+	 top: 1271px; 
+	 position: absolute; 
+	 width: 57px;
+	 height: 58px;
+	 z-index:45;
+} 
+
+ #Rectangle1copy21 
+{ 
+	 left: 244px; 
+	 top: 1361px; 
+	 position: absolute; 
+	 width: 36px;
+	 height: 32px;
+	 z-index:46;
+} 
+
+ #Rectangle1copy21_0 
+{ 
+	 left: 283px; 
+	 top: 1361px; 
+	 position: absolute; 
+	 width: 35px;
+	 height: 32px;
+	 z-index:47;
+} 
+
+ #layer_48 
+{ 
+	 left: 257px; 
+	 top: 1371px; 
+	 position: absolute; 
+	 width: 6px;
+	 height: 11px;
+	 z-index:48;
+} 
+
+ #layer_49 
+{ 
+	 left: 298px; 
+	 top: 1371px; 
+	 position: absolute; 
+	 width: 6px;
+	 height: 11px;
+	 z-index:49;
+} 
+
+ #Rectangle1copy6 
+{ 
+	 left: 673px; 
+	 top: 788px; 
+	 position: absolute; 
+	 width: 350px;
+	 height: 310px;
+	 z-index:50;
+} 
+
+ #Rectangle1copy13 
+{ 
+	 left: 675px; 
+	 top: 856px; 
+	 position: absolute; 
+	 width: 347px;
+	 height: 242px;
+	 z-index:51;
+} 
+
+ #Layer7 
+{ 
+	 left: 676px; 
+	 top: 857px; 
+	 position: absolute; 
+	 width: 344px;
+	 height: 239px;
+	 z-index:52;
+} 
+
+ #Gallery 
+{ 
+	 left: 697px; 
+	 top: 820px; 
+	 position: absolute; 
+	 width: 62px;
+	 height: 21px;
+	 z-index:53;
+} 
+
+ #Rectangle1copy22 
+{ 
+	 left: 921px; 
+	 top: 810px; 
+	 position: absolute; 
+	 width: 36px;
+	 height: 33px;
+	 z-index:54;
+} 
+
+ #Rectangle1copy22_0 
+{ 
+	 left: 960px; 
+	 top: 810px; 
+	 position: absolute; 
+	 width: 35px;
+	 height: 33px;
+	 z-index:55;
+} 
+
+ #layer_56 
+{ 
+	 left: 936px; 
+	 top: 821px; 
+	 position: absolute; 
+	 width: 6px;
+	 height: 11px;
+	 z-index:56;
+} 
+
+ #layer_57 
+{ 
+	 left: 975px; 
+	 top: 821px; 
+	 position: absolute; 
+	 width: 6px;
+	 height: 11px;
+	 z-index:57;
+} 
+
+ #Rectangle1copy6_0 
+{ 
+	 left: -1px; 
+	 top: 788px; 
+	 position: absolute; 
+	 width: 343px;
+	 height: 310px;
+	 z-index:58;
+} 
+
+ #Rectangle3 
+{ 
+	 left: -2px; 
+	 top: 788px; 
+	 position: absolute; 
+	 width: 344px;
+	 height: 70px;
+	 z-index:59;
+} 
+
+ #HotelOverview 
+{ 
+	 left: 26px; 
+	 top: 817px; 
+	 position: absolute; 
+	 width: 143px;
+	 height: 18px;
+	 z-index:60;
+} 
+
+ #PerfectForRelaxingFr 
+{ 
+	 left: 52px; 
+	 top: 884px; 
+	 position: absolute; 
+	 width: 193px;
+	 height: 167px;
+	 z-index:61;
+} 
+
+ #Ellipse2 
+{ 
+	 left: 24px; 
+	 top: 879px; 
+	 position: absolute; 
+	 width: 21px;
+	 height: 21px;
+	 z-index:62;
+} 
+
+ #layer_63 
+{ 
+	 left: 30px; 
+	 top: 886px; 
+	 position: absolute; 
+	 width: 11px;
+	 height: 8px;
+	 z-index:63;
+} 
+
+ #Ellipse2copy 
+{ 
+	 left: 24px; 
+	 top: 910px; 
+	 position: absolute; 
+	 width: 21px;
+	 height: 22px;
+	 z-index:64;
+} 
+
+ #copy 
+{ 
+	 left: 30px; 
+	 top: 918px; 
+	 position: absolute; 
+	 width: 11px;
+	 height: 8px;
+	 z-index:65;
+} 
+
+ #Ellipse2copy2 
+{ 
+	 left: 24px; 
+	 top: 941px; 
+	 position: absolute; 
+	 width: 21px;
+	 height: 21px;
+	 z-index:66;
+} 
+
+ #copy2 
+{ 
+	 left: 30px; 
+	 top: 948px; 
+	 position: absolute; 
+	 width: 11px;
+	 height: 8px;
+	 z-index:67;
+} 
+
+ #Ellipse2copy3 
+{ 
+	 left: 24px; 
+	 top: 972px; 
+	 position: absolute; 
+	 width: 21px;
+	 height: 21px;
+	 z-index:68;
+} 
+
+ #copy3 
+{ 
+	 left: 30px; 
+	 top: 979px; 
+	 position: absolute; 
+	 width: 11px;
+	 height: 8px;
+	 z-index:69;
+} 
+
+ #Ellipse2copy4 
+{ 
+	 left: 24px; 
+	 top: 1002px; 
+	 position: absolute; 
+	 width: 21px;
+	 height: 22px;
+	 z-index:70;
+} 
+
+ #copy4 
+{ 
+	 left: 30px; 
+	 top: 1010px; 
+	 position: absolute; 
+	 width: 11px;
+	 height: 8px;
+	 z-index:71;
+} 
+
+ #Ellipse2copy5 
+{ 
+	 left: 24px; 
+	 top: 1035px; 
+	 position: absolute; 
+	 width: 21px;
+	 height: 21px;
+	 z-index:72;
+} 
+
+ #copy5 
+{ 
+	 left: 30px; 
+	 top: 1042px; 
+	 position: absolute; 
+	 width: 11px;
+	 height: 8px;
+	 z-index:73;
+} 
+
+ #Rectangle1copy5 
+{ 
+	 left: 675px; 
+	 top: 481px; 
+	 position: absolute; 
+	 width: 348px;
+	 height: 310px;
+	 z-index:74;
+} 
+
+ #Rectangle1copy16 
+{ 
+	 left: 675px; 
+	 top: 481px; 
+	 position: absolute; 
+	 width: 347px;
+	 height: 160px;
+	 z-index:75;
+} 
+
+ #Layer6 
+{ 
+	 left: 676px; 
+	 top: 482px; 
+	 position: absolute; 
+	 width: 344px;
+	 height: 158px;
+	 z-index:76;
+} 
+
+ #Readmore 
+{ 
+	 left: 696px; 
+	 top: 758px; 
+	 position: absolute; 
+	 width: 74px;
+	 height: 11px;
+	 z-index:77;
+} 
+
+ #LoremIpsumissimplydu_7 
+{ 
+	 left: 697px; 
+	 top: 668px; 
+	 position: absolute; 
+	 width: 253px;
+	 height: 18px;
+	 z-index:78;
+} 
+
+ #LoremIpsumissimplydu_8 
+{ 
+	 left: 698px; 
+	 top: 698px; 
+	 position: absolute; 
+	 width: 269px;
+	 height: 29px;
+	 z-index:79;
+} 
+
+ #Rectangle1copy4 
+{ 
+	 left: 339px; 
+	 top: 481px; 
+	 position: absolute; 
+	 width: 339px;
+	 height: 617px;
+	 z-index:80;
+} 
+
+ #Layer3 
+{ 
+	 left: 340px; 
+	 top: 483px; 
+	 position: absolute; 
+	 width: 337px;
+	 height: 613px;
+	 z-index:81;
+} 
+
+ #WelcometoourHotel 
+{ 
+	 left: 405px; 
+	 top: 506px; 
+	 position: absolute; 
+	 width: 206px;
+	 height: 18px;
+	 z-index:82;
+} 
+
+ #BookyourHolidaysatDr 
+{ 
+	 left: 427px; 
+	 top: 536px; 
+	 position: absolute; 
+	 width: 159px;
+	 height: 34px;
+	 z-index:83;
+} 
+
+ #LoremIpsumissimplydu_9 
+{ 
+	 left: 363px; 
+	 top: 949px; 
+	 position: absolute; 
+	 width: 269px;
+	 height: 97px;
+	 z-index:84;
+} 
+
+ #Rectangle1copy12 
+{ 
+	 left: 370px; 
+	 top: 603px; 
+	 position: absolute; 
+	 width: 277px;
+	 height: 46px;
+	 z-index:85;
+} 
+
+ #Rectangle1copy14 
+{ 
+	 left: 370px; 
+	 top: 656px; 
+	 position: absolute; 
+	 width: 277px;
+	 height: 46px;
+	 z-index:86;
+} 
+
+ #Rectangle1copy15 
+{ 
+	 left: 370px; 
+	 top: 710px; 
+	 position: absolute; 
+	 width: 277px;
+	 height: 46px;
+	 z-index:87;
+} 
+
+ #Rectangle1copy17 
+{ 
+	 left: 370px; 
+	 top: 763px; 
+	 position: absolute; 
+	 width: 277px;
+	 height: 46px;
+	 z-index:88;
+} 
+
+ #Rectangle1copy18 
+{ 
+	 left: 370px; 
+	 top: 820px; 
+	 position: absolute; 
+	 width: 277px;
+	 height: 45px;
+	 z-index:89;
+} 
+
+ #ArrivalDate 
+{ 
+	 left: 474px; 
+	 top: 619px; 
+	 position: absolute; 
+	 width: 67px;
+	 height: 11px;
+	 z-index:90;
+} 
+
+ #DepartureDate 
+{ 
+	 left: 464px; 
+	 top: 671px; 
+	 position: absolute; 
+	 width: 88px;
+	 height: 14px;
+	 z-index:91;
+} 
+
+ #Room 
+{ 
+	 left: 491px; 
+	 top: 725px; 
+	 position: absolute; 
+	 width: 33px;
+	 height: 11px;
+	 z-index:92;
+} 
+
+ #NumberofPeople 
+{ 
+	 left: 456px; 
+	 top: 781px; 
+	 position: absolute; 
+	 width: 104px;
+	 height: 14px;
+	 z-index:93;
+} 
+
+ #HotelPickup 
+{ 
+	 left: 474px; 
+	 top: 837px; 
+	 position: absolute; 
+	 width: 67px;
+	 height: 13px;
+	 z-index:94;
+} 
+
+ #RoundedRectangle1cop 
+{ 
+	 left: 435px; 
+	 top: 880px; 
+	 position: absolute; 
+	 width: 146px;
+	 height: 36px;
+	 z-index:95;
+} 
+
+ #CheckAvailability 
+{ 
+	 left: 458px; 
+	 top: 893px; 
+	 position: absolute; 
+	 width: 101px;
+	 height: 13px;
+	 z-index:96;
+} 
+
+ #Rectangle1copy3 
+{ 
+	 left: -1px; 
+	 top: 481px; 
+	 position: absolute; 
+	 width: 343px;
+	 height: 310px;
+	 z-index:97;
+} 
+
+ #Rectangle1copy11 
+{ 
+	 left: -1px; 
+	 top: 481px; 
+	 position: absolute; 
+	 width: 343px;
+	 height: 160px;
+	 z-index:98;
+} 
+
+ #Layer5 
+{ 
+	 left: 0px; 
+	 top: 483px; 
+	 position: absolute; 
+	 width: 341px;
+	 height: 157px;
+	 z-index:99;
+} 
+
+ #LoremIpsumissimplydu_10 
+{ 
+	 left: 26px; 
+	 top: 668px; 
+	 position: absolute; 
+	 width: 253px;
+	 height: 18px;
+	 z-index:100;
+} 
+
+ #LoremIpsumissimplydu_11 
+{ 
+	 left: 26px; 
+	 top: 698px; 
+	 position: absolute; 
+	 width: 237px;
+	 height: 30px;
+	 z-index:101;
+} 
+
+ #Readmore_0 
+{ 
+	 left: 25px; 
+	 top: 758px; 
+	 position: absolute; 
+	 width: 74px;
+	 height: 11px;
+	 z-index:102;
+} 
+
+ #Rectangle2 
+{ 
+	 left: 0px; 
+	 top: 127px; 
+	 position: absolute; 
+	 width: 1021px;
+	 height: 357px;
+	 z-index:103;
+} 
+
+ #Layer9 
+{ 
+	 left: 0px; 
+	 top: 127px; 
+	 position: absolute; 
+	 width: 1020px;
+	 height: 357px;
+	 z-index:104;
+} 
+
+ #BookYourSummerHolida 
+{ 
+	 left: 26px; 
+	 top: 275px; 
+	 position: absolute; 
+	 width: 429px;
+	 height: 63px;
+	 z-index:105;
+} 
+
+ #LoremIpsumissimplydu_12 
+{ 
+	 left: 697px; 
+	 top: 262px; 
+	 position: absolute; 
+	 width: 270px;
+	 height: 82px;
+	 z-index:106;
+} 
+
+ #RoundedRectangle1cop_0 
+{ 
+	 left: 707px; 
+	 top: 359px; 
+	 position: absolute; 
+	 width: 98px;
+	 height: 30px;
+	 z-index:107;
+} 
+
+ #ReadMore 
+{ 
+	 left: 723px; 
+	 top: 368px; 
+	 position: absolute; 
+	 width: 67px;
+	 height: 12px;
+	 z-index:108;
+} 
+
+ #Rectangle1copy 
+{ 
+	 left: -1px; 
+	 top: 58px; 
+	 position: absolute; 
+	 width: 1024px;
+	 height: 71px;
+	 z-index:109;
+} 
+
+ #Rectangle1copy2 
+{ 
+	 left: -2px; 
+	 top: 58px; 
+	 position: absolute; 
+	 width: 195px;
+	 height: 71px;
+	 z-index:110;
+} 
+
+ #HomeRoomsFacilitiesG 
+{ 
+	 left: 433px; 
+	 top: 88px; 
+	 position: absolute; 
+	 width: 425px;
+	 height: 16px;
+	 z-index:111;
+} 
+
+ #YourHotel 
+{ 
+	 left: 28px; 
+	 top: 76px; 
+	 position: absolute; 
+	 width: 134px;
+	 height: 22px;
+	 z-index:112;
+} 
+
+ #TagLinehere 
+{ 
+	 left: 36px; 
+	 top: 104px; 
+	 position: absolute; 
+	 width: 113px;
+	 height: 10px;
+	 z-index:113;
+} 
+
+ #RoundedRectangle1 
+{ 
+	 left: 874px; 
+	 top: 75px; 
+	 position: absolute; 
+	 width: 137px;
+	 height: 40px;
+	 z-index:114;
+} 
+
+ #BookNow 
+{ 
+	 left: 903px; 
+	 top: 88px; 
+	 position: absolute; 
+	 width: 81px;
+	 height: 14px;
+	 z-index:115;
+} 
+
+ #layer_116 
+{ 
+	 left: 380px; 
+	 top: 19px; 
+	 position: absolute; 
+	 width: 16px;
+	 height: 16px;
+	 z-index:116;
+} 
+
+ #layer_44001234567 
+{ 
+	 left: 400px; 
+	 top: 20px; 
+	 position: absolute; 
+	 width: 122px;
+	 height: 14px;
+	 z-index:117;
+} 
+
+ #layer_118 
+{ 
+	 left: 608px; 
+	 top: 22px; 
+	 position: absolute; 
+	 width: 16px;
+	 height: 13px;
+	 z-index:118;
+} 
+
+ #mailgrahasupenacom 
+{ 
+	 left: 638px; 
+	 top: 19px; 
+	 position: absolute; 
+	 width: 174px;
+	 height: 18px;
+	 z-index:119;
+} 
+
+ #fb 
+{ 
+	 left: 901px; 
+	 top: 13px; 
+	 position: absolute; 
+	 width: 30px;
+	 height: 31px;
+	 z-index:120;
+} 
+
+ #fb_0 
+{ 
+	 left: 910px; 
+	 top: 21px; 
+	 position: absolute; 
+	 width: 9px;
+	 height: 16px;
+	 z-index:121;
+} 
+
+ #gplus 
+{ 
+	 left: 862px; 
+	 top: 13px; 
+	 position: absolute; 
+	 width: 30px;
+	 height: 31px;
+	 z-index:122;
+} 
+
+ #gplus_0 
+{ 
+	 left: 868px; 
+	 top: 23px; 
+	 position: absolute; 
+	 width: 20px;
+	 height: 13px;
+	 z-index:123;
+} 
+
+ #twet 
+{ 
+	 left: 943px; 
+	 top: 13px; 
+	 position: absolute; 
+	 width: 30px;
+	 height: 31px;
+	 z-index:124;
+} 
+
+ #twet_0 
+{ 
+	 left: 951px; 
+	 top: 23px; 
+	 position: absolute; 
+	 width: 14px;
+	 height: 12px;
+	 z-index:125;
+} 
+
+ #lind 
+{ 
+	 left: 985px; 
+	 top: 13px; 
+	 position: absolute; 
+	 width: 31px;
+	 height: 31px;
+	 z-index:126;
+} 
+
+ #lind_0 
+{ 
+	 left: 994px; 
+	 top: 22px; 
+	 position: absolute; 
+	 width: 15px;
+	 height: 14px;
+	 z-index:127;
+} 
